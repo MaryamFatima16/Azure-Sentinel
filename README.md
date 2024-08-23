@@ -35,23 +35,47 @@ In this project, I have:
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/azure-sentinel-dashboard.png" alt="Azure Sentinel Dashboard" width="400"/>
-  <br/><i>Azure Sentinel Dashboard with attack data.</i>
+  <img src="screenshots/Failedlogins.png" alt="Failed Logins" width="400"/>
+  <br/><i>Failed login attempts captured by the honeypot.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/honeypot-setup.png" alt="Honeypot Setup" width="400"/>
-  <br/><i>Deployment of the virtual machine honeypot.</i>
+  <img src="screenshots/logonfailureRDP.png" alt="RDP Logon Failure" width="400"/>
+  <br/><i>RDP logon failure events captured by the honeypot.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/geolocation-map.png" alt="Geolocation Map" width="400"/>
-  <br/><i>Geolocation mapping of RDP brute force attacks.</i>
+  <img src="screenshots/logonsuccessRDP.png" alt="RDP Logon Success" width="400"/>
+  <br/><i>RDP logon success events captured by the honeypot.</i>
 </p>
+
+<p align="center">
+  <img src="screenshots/failedloginsSentinel.png" alt="Failed Logins in Sentinel" width="400"/>
+  <br/><i>Failed login attempts visualized in Azure Sentinel.</i>
+</p>
+
+
+<p align="center">
+  <img src="screenshots/scriptfailureevents.png" alt="Script Failure Events" width="400"/>
+  <br/><i>Events of script failures.</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/scriptsuccsessevents.png" alt="Script Success Events" width="400"/>
+  <br/><i>Events of script successes.</i>
+</p>
+
+## Contributing
+
+Feel free to fork the repository, make improvements, and submit pull requests. For issues or feature requests, please open an issue in the repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 Maryam Fatima  
 GitHub Profile: [MaryamFatima16](https://github.com/MaryamFatima16)  
-LinkedIn Profile: [Maryam Fatima](https://linkedin.com/in/maryam-fatima03)  
-Email: [your-email@example.com](maryamfatima03@gmail.com)
+LinkedIn Profile: [Maryam Fatima](https://linkedin.com/in/maryam-fatima)  
+Email: [your-email@example.com](mailto:your-email@example.com)
