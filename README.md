@@ -49,17 +49,9 @@ In this project, I have:
   <br/><i>Geolocation mapping of RDP brute force attacks.</i>
 </p>
 
-## Contributing
-
-Feel free to fork the repository, make improvements, and submit pull requests. For issues or feature requests, please open an issue in the repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Maryam Fatima  
 GitHub Profile: [MaryamFatima16](https://github.com/MaryamFatima16)  
-LinkedIn Profile: [Maryam Fatima](https://linkedin.com/in/maryam-fatima)  
-Email: [your-email@example.com](mailto:your-email@example.com)
+LinkedIn Profile: [Maryam Fatima](https://linkedin.com/in/maryam-fatima03)  
+Email: [your-email@example.com](maryamfatima03@gmail.com)
