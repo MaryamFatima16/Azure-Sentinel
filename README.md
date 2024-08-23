@@ -49,4 +49,4 @@ In this project, I have:
 Maryam Fatima  
 GitHub Profile: [MaryamFatima16](https://github.com/MaryamFatima16)  
 LinkedIn Profile: [maryam-fatima03](https://linkedin.com/in/maryam-fatima03)  
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [maryamfatima03@gmail.com](maryamfatima03@gmail.com)
