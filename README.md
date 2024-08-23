@@ -40,42 +40,13 @@ In this project, I have:
 </p>
 
 <p align="center">
-  <img src="screenshots/logonfailureRDP.png" alt="RDP Logon Failure" width="400"/>
-  <br/><i>RDP logon failure events captured by the honeypot.</i>
-</p>
-
-<p align="center">
-  <img src="screenshots/logonsuccessRDP.png" alt="RDP Logon Success" width="400"/>
-  <br/><i>RDP logon success events captured by the honeypot.</i>
-</p>
-
-<p align="center">
   <img src="screenshots/failedloginsSentinel.png" alt="Failed Logins in Sentinel" width="400"/>
   <br/><i>Failed login attempts visualized in Azure Sentinel.</i>
 </p>
-
-
-<p align="center">
-  <img src="screenshots/scriptfailureevents.png" alt="Script Failure Events" width="400"/>
-  <br/><i>Events of script failures.</i>
-</p>
-
-<p align="center">
-  <img src="screenshots/scriptsuccsessevents.png" alt="Script Success Events" width="400"/>
-  <br/><i>Events of script successes.</i>
-</p>
-
-## Contributing
-
-Feel free to fork the repository, make improvements, and submit pull requests. For issues or feature requests, please open an issue in the repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+ 
 ## Contact
 
 Maryam Fatima  
 GitHub Profile: [MaryamFatima16](https://github.com/MaryamFatima16)  
-LinkedIn Profile: [Maryam Fatima](https://linkedin.com/in/maryam-fatima)  
+LinkedIn Profile: [maryam-fatima03](https://linkedin.com/in/maryam-fatima03)  
 Email: [your-email@example.com](mailto:your-email@example.com)
